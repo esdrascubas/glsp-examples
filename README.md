@@ -1,5 +1,6 @@
 # Eclipse GLSP Examples [![Build Status](https://ci.eclipse.org/glsp/job/eclipse-glsp/job/glsp-examples/job/master/badge/icon)](https://ci.eclipse.org/glsp/job/eclipse-glsp/job/glsp-examples/job/master/)
 
+
 This repository contains code examples that demonstrate how to build diagram editors with the [Graphical Language Server Platform (GLSP)](https://github.com/eclipse-glsp/glsp).
 The examples are focused on the integration of GLSP editors with the cloud-based [Eclipse Theia IDE](https://github.com/theia-ide/theia) using the [GLSP Theia integration](https://github.com/eclipse-glsp/glsp-theia-integration) and the Java based [GLSP Server Framework](https://github.com/eclipse-glsp/glsp-server).
 
